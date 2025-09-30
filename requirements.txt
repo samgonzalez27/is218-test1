@@ -1,0 +1,6 @@
+# Testing dependencies
+pytest
+pytest-cov
+
+# Linting dependencies
+pylint
